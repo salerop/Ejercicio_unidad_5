@@ -1,0 +1,5 @@
+comandos que utilice:
+git add .
+git status
+git commit -m "commit step for 1"
+git push
